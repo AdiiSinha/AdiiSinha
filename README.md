@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💼 Currently working as a Product Growth Intern at Dhruva Research, where I contribute to product strategy, user insights, and growth initiatives.<br><br>💻 Actively expanding my skills in the MERN stack (MongoDB, Express, React, Node.js) to build full-stack web applications.<br><br>🎨 Familiar with designing in Canva and Excel, blending visual aesthetics with structured data to create engaging reports and presentations.<br><br>🚀 Always eager to take on new challenges that sit at the intersection of product, technology, and design.
+🧑‍💼 Worked as a Product Growth Intern at Dhruva Research, where I contribute to product strategy, user insights, and growth initiatives.<br><br>💻 Actively expanding my skills in the MERN stack (MongoDB, Express, React, Node.js) to build full-stack web applications.<br><br>🎨 Familiar with designing in Canva and Excel, blending visual aesthetics with structured data to create engaging reports and presentations.<br><br>🚀 Always eager to take on new challenges that sit at the intersection of product, technology, and design.
 
 
 ## 🌐 Socials:
